@@ -1,26 +1,26 @@
 # PsychEval: A Multi-Session and Multi-Therapy Benchmark for High-Realism AI Psychological Counselor
 
-This repository contains the dataset and evaluation framework for PsychEval, a pioneering benchmark designed to align AI capabilities with professional psychological assessment and longitudinal treatment demands.
+[![Paper](https://img.shields.io/badge/Paper-ArXiv-b31b1b.svg)](https://arxiv.org/html/2601.01802v1) **PsychEval** is a comprehensive benchmark designed to evaluate Large Language Models (LLMs) in the context of psychological counseling. Unlike existing benchmarks that focus on single-turn interactions or single-session assessments, PsychEval emphasizes **longitudinal, multi-session counseling** processes and **multi-therapy** capabilities.
 
-## Core Innovations
+![PsychEval Framework](https://github.com/ECNU-ICALK/PsychEval/tree/main/figures/dialogue_construction.png)
+*Figure 1: Overview of the PsychEval framework and data construction pipeline.*
 
-PsychEval shifts the focus from large-scale but shallow interactions to high-fidelity, longitudinal, and skill-aware assessment.
+## 🌟 Key Features
 
-1. Breaking the "Single-Session" Barrier: Unlike existing datasets limited to fragmented chat logs, PsychEval simulates the full trajectory of counseling, spanning 6 to 10 sessions per client across three clinical stages: Case Conceptualization, Core Intervention, and Consolidation.
+* **Multi-Session Continuity:** Contains full counseling cycles spanning **6-10 sessions** per case, divided into three distinct stages:
+    1.  **Case Conceptualization:** Information gathering and relationship building.
+    2.  **Core Intervention:** Intervention and working through problems.
+    3.  **Consolidation:** Consolidation and termination.
+* **Multi-Therapy Coverage:** Supports evaluation across different therapeutic approaches (e.g., CBT, SFBT) along with a integrated therapy, requiring the AI to adapt its strategies.
+* **High Realism & Granularity:**
+    * Annotated with extensive professional skills.
+    * Includes **677 meta-skills** and **4577 atomic skills**.
+    * Focuses on memory continuity, dynamic goal tracking, and longitudinal planning.
+* **Reliable Evaluation:** Introduces a multi-agent evaluation framework involving a **Client Simulator** (for realistic role-play) and a **Supervisor Agent** (for professional scoring).
 
-2. Theoretical Versatility (Multi-Therapy): It is the first benchmark to support 5 major therapeutic schools (CBT, Psychodynamic, Behavioral, Humanistic, Postmodernist) and an Integrative approach within a unified clinical framework.
+## 📂 Dataset Structure
 
-3. Hierarchical Skill Taxonomy: We provide a massive, interpretable supervision signal with 677 Meta-skills and 4,577 Atomic skills, enabling AI agents to perform coarse-to-fine clinical reasoning and strategic goal-tracking.
-
-4. High-Realism Data Source: Grounded in 369 authentic clinical case reports from authoritative psychology journals rather than synthetic or unstructured chat logs, ensuring peak ecological validity and clinical fidelity.
-
-## Statistical Highlights
-<img width="1858" height="538" alt="image" src="https://github.com/user-attachments/assets/9230b796-8740-409f-be66-9451a3091c85" />
-
-
-<img width="1394" height="496" alt="image" src="https://github.com/user-attachments/assets/d55f0a10-9f8c-444d-ac60-bf054e557cbe" />
-
-<img width="1334" height="458" alt="image" src="https://github.com/user-attachments/assets/86ecdb17-0b95-4418-8581-5cef89f51147" />
+The dataset simulates a complete counseling lifecycle. Each case is structured to reflect the progression of real-world therapy.
 
 
 
