@@ -10,7 +10,7 @@
     2.  **Core Intervention:** Intervention and working through problems.
     3.  **Consolidation:** Consolidation and termination.
 ![Unified Workflow](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/unified_counseling_flow.png)
-*Figure 1: Overview of the unified counseling workflow.*
+<!-- *Figure 1: Overview of the unified counseling workflow.* -->
 * **Multi-Therapy Coverage:** Supports evaluation across different therapeutic approaches (e.g., CBT, SFBT) along with a integrated therapy, requiring the AI to adapt its strategies.
 * **High Realism & Granularity:**
     * Annotated with extensive professional skills.
@@ -23,21 +23,21 @@
 The dataset simulates a complete counseling lifecycle. Each case is structured to reflect the progression of real-world therapy.
 
 ![Case Extraction](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/case_extraction.png)
-*Figure 2: Overview of the Case Extraction.*
+<!-- *Figure 2: Overview of the Case Extraction.* -->
 
 ![Dialogue Construction](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/dialogue_construction.png)
-*Figure 3: Overview of the dialogue construction pipeline.*
+<!-- *Figure 3: Overview of the dialogue construction pipeline.* -->
 
 
 ## 📊 Data Distribution
 ![Statistical Information](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/statistical_information.png)
-*Table 1: Statistical Information of **PsychEval**.*
+<!-- *Table 1: Statistical Information of **PsychEval**.* -->
 
 ![Key Feaure Comparison](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/feature_compare.png)
-*Table 2: Comparison with existing benchmarks on key characteristics.*
+<!-- *Table 2: Comparison with existing benchmarks on key characteristics.* -->
 
 ![Statistical Information Comparison](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/statistical_information_compare.png)
-*Table 3: Comparison with existing benchmarks in terms of statistical information.*
+<!-- *Table 3: Comparison with existing benchmarks in terms of statistical information.* -->
 
 
 ## Evaluation Framework
@@ -45,7 +45,7 @@ The dataset simulates a complete counseling lifecycle. Each case is structured t
 We establish a holistic assessment system utilizing 18 therapy-specific and shared metrics (e.g., WAI for alliance, CTRS for CBT competency, and SCL-90 for symptom reduction). Our results show that PsychEval achieves unprecedented clinical fidelity, nearly doubling the scores of prior models in technical adherence (e.g., CTRS: 9.19).
 
 ![Quality](https://github.com/ECNU-ICALK/PsychEval/blob/main/figures/quality.png)
-*Table 3: Data quality of our benchmark in terms of counselor-level and client-level metrics.*
+<!-- *Table 3: Data quality of our benchmark in terms of counselor-level and client-level metrics.* -->
 
 
 ##  Running the Evaluation
