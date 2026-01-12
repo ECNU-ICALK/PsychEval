@@ -43,21 +43,21 @@ The dataset simulates a complete counseling lifecycle. Each case is structured t
 
 ## Repository Overview
 ```
-. 
-├── data
+PsychEval/
+├── data        # Dataset
 │   ├── bt
 │   ├── cbt
 │   ├── het
 │   ├── integrative
 │   ├── pdt
 │   └── pmt
-├── eval
-│   ├── data_sample
-│   ├── manager
-│   ├── methods
-│   ├── prompts_cn
-│   ├── results
-│   └── utils
+├── eval        # Evaluation framework & pipelines
+│   ├── data_sample     # Sample data for all benchmark
+│   ├── manager         # Orchestration logic for evaluation tasks
+│   ├── methods         # Implementation of specific metrics
+│   ├── prompts_cn      # Instruction prompts (Chinese)
+│   ├── results         # Directory for saving evaluation outputs
+│   └── utils           # Helper functions
 ├── figures
 │   ├── case_extraction.png
 │   ├── dialogue_construction.png
