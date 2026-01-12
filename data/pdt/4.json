@@ -2673,11 +2673,7 @@
                 },
                 {
                     "role": "Counselor",
-                    "text": "<think><assessment>他能够标注强度，提示安全感在上升；我可以巩固这种可控感，确认他的主观体验。</assessment><client_state>紧张可言说，开始进入合作状态。</client_state><skill>1168:以共情短句命名并承接表层情绪</skill><strategy>用简短共情句承接，让他感到被理解。</strategy></think>中等的紧张能让人不太舒服，你能把它说出来已经很不错了。"
-                },
-                {
-                    "role": "Counselor",
-                    "text": "<think><assessment>进入回顾与核对作业环节，检查记录卡完成情况与遇到的障碍。</assessment><client_state>合作度较好，可以回顾作业细节。</client_state><skill>703:采用全景式倾听; 50804:开放式探询当前困扰与情绪脉络</skill><strategy>用一个开放式问题核对上周记录卡完成情况与困难。</strategy></think>上周的“情境记录卡”，你大概记录了几次？有没有遇到什么难处？"
+                    "text": "<think><assessment>他能够标注强度，提示安全感在上升；我可以巩固这种可控感，确认他的主观体验。</assessment><client_state>紧张可言说，开始进入合作状态,可以回顾作业细节。</client_state><skill>1168:以共情短句命名并承接表层情绪; 50804:开放式探询当前困扰与情绪脉络</skill><strategy>用简短共情句承接，让他感到被理解。用一个开放式问题核对上周记录卡完成情况与困难。</strategy></think>中等的紧张能让人不太舒服，你能把它说出来已经很不错了。上周的“情境记录卡”，你大概记录了几次？有没有遇到什么难处？"
                 },
                 {
                     "role": "Client",
@@ -2800,8 +2796,12 @@
                     "text": "<think><assessment>出现典型回避与婉拒；我需尊重节奏并点出保护功能，维持安全。</assessment><client_state>防御在位（回避），但合作未破坏。</client_state><skill>1291:支持性规避极端情绪以护航功能; 1168:以共情短句命名并承接表层情绪</skill><strategy>承认他的选择权与紧张，维持同盟。</strategy></think>没问题，节奏在你手里；现在先不做对视尝试也是一种保护自己、让紧张别太高的方式。"
                 },
                 {
+                    "role": "Client",
+                    "text": "嗯，先这样吧。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>继续以想象探另一触发：在走廊对陌生女生说一句“您好”，观察是否出现合理化规则与自我贬低。</assessment><client_state>可能出现“我不看别人，别人就不会看我”的原则与自嘲。</client_state><skill>2250:指明防御行为的社会后果; 2230:现实检验读心与投射</skill><strategy>提出想象邀请，保持单点提问。</strategy></think>如果还是只想象、不要求执行——在走廊对一位女生说一句“您好”，你脑子里会冒出什么念头、身体会怎么样？"
+                    "text": "<think><assessment>他以简短回应接受“先不做”的安排，表示愿意按可承受的节奏继续；防御未升级，适合在安全框架下尝试另一项仅限想象的探查。</assessment><client_state>紧张仍在但可被承载，合作度尚可，愿意继续探索。</client_state><skill>2250:指明防御行为的社会后果; 2230:现实检验读心与投射</skill><strategy>延续“只在想象里”的框架，提出单一情境的想象邀请，观察是否出现读心与保护性规则，为后续温和澄清做铺垫。</strategy></think>明白，我们就先保持在想象里。如果还是只想象、不要求执行——在走廊对一位女生说一句“您好”，你脑子里会冒出什么念头、身体会怎么样？"
                 },
                 {
                     "role": "Client",

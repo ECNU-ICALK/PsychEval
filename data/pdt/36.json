@@ -2487,8 +2487,12 @@
                     "text": "<think><assessment>她能说出担心且强度降低。我需要明确非评判立场，并用现实化的期待支持她的节奏。</assessment><client_state>同盟稳固，轻度羞耻在场，但可被承载与校准。</client_state><skill>1268:规范化改变节奏与期望</skill><strategy>策略：以陈述的方式正常化进展与波动，强调我们把理解与帮助放前，并准备进入结束流程。</strategy></think>在这里我们始终把理解与帮助放在前面，改变也需要一点时间和练习的积累，你已经在稳步推进。"
                 },
                 {
+                    "role": "Client",
+                    "text": "好的。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>进入结束流程：总结今日要点与练习，并请她用自己的话复述作业要点，确认安全边界。</assessment><client_state>平稳、合作，适合用自我复述巩固理解。</client_state><skill>270800:解释治疗过程与安排并强调坚持配合</skill><strategy>策略：请她用自己的话复述本周的三个练习要点，只问一个问题。</strategy></think>你愿意用自己的话复述一下这周我们约定的三个练习要点吗？"
+                    "text": "<think><assessment>在我规范化与肯定后，来访者以简短回应表示接纳与认可，显示情绪平稳且愿意按当前节奏推进，适合进入收尾与巩固环节。</assessment><client_state>平稳、合作，对作业回顾与巩固具有可承受度。</client_state><skill>270800:解释治疗过程与安排并强调坚持配合</skill><strategy>通过让来访者用自己的话复述本周的三个练习要点，巩固理解与记忆，同时再次确认练习的可行性与安全边界，以结束流程前完成对齐。</strategy></think>好的，你愿意用自己的话复述一下这周我们约定的三个练习要点吗？"
                 },
                 {
                     "role": "Client",

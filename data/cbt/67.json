@@ -3318,8 +3318,12 @@
                     "text": "<think><assessment>继续该技术一轮，若不足两条则鼓励补充，随后再转辩方证据。</assessment><client_state>已给出两条，可转反证。</client_state><skill>157:引导控方证据搜集</skill><strategy>简要确认已足够，准备引入反向证据。</strategy></think>好的，这两条我记下来了，都是具体发生过的细节。"
                 },
                 {
+                    "role": "Client",
+                    "text": "嗯，我试着想想。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>转入辩方证据，连续两轮保持一致性。</assessment><client_state>可能先说出一两条，需要耐心引导。</client_state><skill>158:引导辩方主张与证据</skill><strategy>请她列两条不支持原念头的事实，或能说明他也在意你的片段。</strategy></think>再想两件不太支持“只要他对她们好就等于对你不好”的事：有没有他在意你、理解你的时刻，或能说明还有别的解释的细节？"
+                    "text": "<think><assessment>来访者用简短回应表示愿意继续配合，适合进入辩方证据的搜集与平衡。</assessment><client_state>愿意尝试、可配合，可能略疲惫但能继续。</client_state><skill>158:引导辩方主张与证据</skill><strategy>邀请其列出不支持原念头的事实，或能说明他也在意/理解她的片段，保持与前一轮一致的证据法流程。</strategy></think>好的，那我们再想两件不太支持“只要他对她们好就等于对你不好”的事：有没有他在意你、理解你的时刻，或能说明还有别的解释的细节？"
                 },
                 {
                     "role": "Client",
@@ -3362,8 +3366,12 @@
                     "text": "<think><assessment>继续控方证据核对一轮，随后转辩方证据与其他解释。</assessment><client_state>证据明确，可转反证。</client_state><skill>157:引导控方证据搜集</skill><strategy>简要确认并准备引入反证与其他解释。</strategy></think>明白，这两条是支持原念头的事实，我记下了。"
                 },
                 {
+                    "role": "Client",
+                    "text": "嗯。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>引入反证与其他可能解释，引导其从“针对我”转向“提醒/担心安全”的多元解释。</assessment><client_state>可能出现沉默或“就这样”的感觉，问题需具体化。</client_state><skill>158:引导辩方主张与证据; 133001:澄清链条并检索反例</skill><strategy>请其找两条不支持“就是针对你”的事实，或提出其他解释（如用词、语气、后续关心）。</strategy></think>那有没有两条不太支持“就是针对你”的事实，或者能说明还有别的解释？比如他的用词、语气、事后有没有关心你的安全、告诉你怎么更方便之类的细节。"
+                    "text": "<think><assessment>来访者以简短回应表示认可与继续的意愿，注意力尚在，适合推进到反向证据与其他解释的检索。</assessment><client_state>合作、略疲惫但可继续，愿意在结构下提供信息。</client_state><skill>158:引导辩方主张与证据; 133001:澄清链条并检索反例</skill><strategy>在确认控方证据后，邀请来访者列出不支持原念头的事实并尝试生成其他合理解释，以平衡信息与松动“就是针对我”的结论。</strategy></think>好的，基于这两条，我们接着看反面的信息：那有没有两条不太支持“就是针对你”的事实，或者能说明还有别的解释？比如他的用词、语气、事后有没有关心你的安全、告诉你怎么更方便之类的细节。"
                 },
                 {
                     "role": "Client",

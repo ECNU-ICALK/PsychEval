@@ -1514,8 +1514,12 @@
                     "text": "<think><assessment>确认并强化暂停规则，提升掌控感。</assessment><client_state>合作、略紧张。</client_state><skill>260101:及时给予具体肯定与鼓励</skill><strategy>肯定其选择并承诺立即响应暂停信号，随后过渡到作业回顾。</strategy></think>很好，“停一下”配合举手很清晰。我看到或听到就会立刻暂停，我们按你的节奏来。"
                 },
                 {
+                    "role": "Client",
+                    "text": "嗯，这样我放心些。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>进入作业回顾，聚焦ABC基线与任何“更好/不一样”的片段。</assessment><client_state>愿意配合，但需要具体提问引导。</client_state><skill>1366:行为日记式自我监控与因果线索分析; 264504:记录家庭作业与训练执行情况</skill><strategy>请他先选一条印象最清楚的记录来讲，聚焦情境—想法—身体—行为—结果。</strategy></think>上周的记录里，你能选一条你印象最清楚的来讲讲吗？"
+                    "text": "<think><assessment>来访者对暂停约定表示安心，可控感提升，准备继续进入内容。</assessment><client_state>略紧张已缓和，合作度良好，愿意配合回顾。</client_state><skill>1366:行为日记式自我监控与因果线索分析; 264504:记录家庭作业与训练执行情况</skill><strategy>在确认安全与节奏后，自然过渡到作业回顾；以具体指令请其选一条记录，聚焦情境—想法—身体—行为—结果，为后续分级与训练铺垫。</strategy></think>好的，那我们进入作业回顾。上周的记录里，你能选一条你印象最清楚的来讲讲吗？"
                 },
                 {
                     "role": "Client",

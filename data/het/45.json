@@ -2683,8 +2683,12 @@
                     "text": "<think><assessment>给予肯定并简要归纳体验要点，支持其自我效能感。</assessment><client_state>在场感增强，紧有所松。</client_state><skill>1195:阐明面对不适所需勇气并强调成长; 204403:用来访者语言反映并命名情绪。</skill><strategy>以支持性陈述巩固他的尝试与勇气，不提要求。</strategy></think>你在承载紧和焦虑的同时，让那个念头来去自如，这很不容易，也很有力量。"
                 },
                 {
+                    "role": "Client",
+                    "text": "嗯，感觉有点稳住了。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>现在把体验转化为可执行的微实验，明确步骤与记录要点。</assessment><client_state>准备度良好，愿意把体验带到生活情境。</client_state><skill>1516:布置可执行任务并明确反馈; 1392:设定并预演预期场景。</skill><strategy>提出延迟10–15分钟的实验邀请，聚焦晚自习后宿舍场景。</strategy></think>当晚自习后在宿舍起冲动时，这周你愿意做一个“延迟10–15分钟”的小实验吗？"
+                    "text": "<think><assessment>来访者以“感觉有点稳住了”的简短回应，显示在承载不适后出现些许稳定与自我效能，愿意继续尝试。</assessment><client_state>较先前更放松，准备度良好，能够从体验过渡到行动练习。</client_state><skill>1516:布置可执行任务并明确反馈; 1392:设定并预演预期场景。</skill><strategy>在肯定之后，顺势提出一个具体且可行的行为微实验邀请，聚焦晚自习后宿舍的高风险情境，将当下体验转化为生活中的实践。</strategy></think>听到你这么说，当晚自习后在宿舍起冲动时，这周你愿意做一个“延迟10–15分钟”的小实验吗？"
                 },
                 {
                     "role": "Client",

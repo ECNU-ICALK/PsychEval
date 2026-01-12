@@ -4077,8 +4077,12 @@
                     "text": "<think><assessment>简短连接其他主题以防分心，再回到社交焦点。</assessment><client_state>对学习/进食已有可控体验。</client_state><skill>260101:及时给予具体肯定与鼓励</skill><strategy>策略：用一句话确认她在学习与进食上的可控感并给予肯定，随后回到社交焦点。</strategy></think>你在学习和进食上已经有了“有点可控”的感觉，这是很好的基础，我们今天就把精力放在社交这块上。"
                 },
                 {
+                    "role": "Client",
+                    "text": "好的。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>按既往安排简要回顾作业执行数据，为后续社交干预提供支持性强化。</assessment><client_state>愿意报告数据，动机稳定。</client_state><skill>264504:记录家庭作业与训练执行情况</skill><strategy>策略：先核对学习/如厕的“75分钟+延迟5分钟”在上午人少时完成次数。</strategy></think>在“上午人少”的时段，你把允许如厕间隔设为75分钟并至少延迟到5分钟，大概完成了几次？"
+                    "text": "<think><assessment>来访者简短回应表示同意与配合，适合先快速核对作业数据以巩固可控感，再转入社交主题。</assessment><client_state>愿意配合简要回顾，动机稳定，能够报告数据。</client_state><skill>264504:记录家庭作业与训练执行情况</skill><strategy>策略：在她同意后，先核对学习/如厕的“75分钟+延迟5分钟”在上午人少时的完成次数，作为支持性强化。</strategy></think>好，我们先快速核对一下：在“上午人少”的时段，你把允许如厕间隔设为75分钟并至少延迟到5分钟，大概完成了几次？"
                 },
                 {
                     "role": "Client",
@@ -4097,8 +4101,12 @@
                     "text": "<think><assessment>给予具体强化并过渡到社交回避的功能分析。</assessment><client_state>受到肯定后更愿意投入讨论。</client_state><skill>260101:及时给予具体肯定与鼓励</skill><strategy>策略：指出她的努力与进步，轻柔过渡到社交片段。</strategy></think>你把关键步骤做得很扎实，这是很值得肯定的努力。接下来我们聚焦社交，选一段最近发生的互动来看看具体环节。"
                 },
                 {
+                    "role": "Client",
+                    "text": "可以。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>进入ABC功能分析需要具体事件素材，先从室友互动开始。</assessment><client_state>紧张偏高但愿意配合回忆。</client_state><skill>1366:行为日记式自我监控与因果线索分析</skill><strategy>策略：请她描述一次最近与室友的接触片段。</strategy></think>可以选一件最近与室友的接触，简单说说当时发生了什么吗？"
+                    "text": "<think><assessment>来访者简短同意，表示愿意聚焦社交并提供素材。</assessment><client_state>配合度良好，可能仍有些紧张但可进入回忆叙述。</client_state><skill>1366:行为日记式自我监控与因果线索分析</skill><strategy>通过请她选取一次与室友的近期接触，获得具体事件以开展ABC功能分析。</strategy></think>好的，可以选一件最近与室友的接触，简单说说当时发生了什么吗？"
                 },
                 {
                     "role": "Client",
@@ -4149,8 +4157,12 @@
                     "text": "<think><assessment>先情感验证，再桥接到社交回避主线。</assessment><client_state>感到不被尊重与委屈，防御略高。</client_state><skill>260101:及时给予具体肯定与鼓励</skill><strategy>策略：验证她的委屈与不被尊重感，然后自然连回“回避—短缓解—长期代价”的链条。</strategy></think>被那样说很委屈、也不被尊重，你当时能扛住已经不容易。我们回到这条链上看：当评价线索出现，你退回沉默会短暂舒缓，但关系更疏远，这算是同样的维持模式。"
                 },
                 {
+                    "role": "Client",
+                    "text": "嗯，是这样的。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>进入认知层的语义松动，减少标签化，转化为边界与偏好陈述。</assessment><client_state>愿意尝试更中性的说法。</client_state><skill>2063:挑战消极自我陈述与挫败信念</skill><strategy>策略：用苏格拉底式提问检视“少说话免得被说”的功能与代价。</strategy></think>当“少说话免得被说”这句出现时，它对你有何好处，同时又会带来什么代价？"
+                    "text": "<think><assessment>来访者以简短回应认可了维持模式的描述，情绪被验证后防御下降，适合转向认知层的功能—代价检视。</assessment><client_state>接受度提高，愿意跟随引导进行语义松动与替代陈述评估。</client_state><skill>2063:挑战消极自我陈述与挫败信念</skill><strategy>在她认可维持模式后，用苏格拉底式提问帮助她辨识“少说话免得被说”的好处与代价，为后续替代陈述与边界化铺路。</strategy></think>那顺着你刚才的确认，当“少说话免得被说”这句出现时，它对你有何好处，同时又会带来什么代价？"
                 },
                 {
                     "role": "Client",
@@ -4249,8 +4261,12 @@
                     "text": "<think><assessment>强化恰当表现并拓展到非言语要点，提升自信呈现。</assessment><client_state>自我效能感提升，愿意优化非言语。</client_state><skill>1004:即时强化恰当表现; 988:在角色扮演中训练自信表达与非言语</skill><strategy>策略：表扬后建议在“打招呼”时增加眼神停留与音量提升的细节。</strategy></think>很好，重申简洁而礼貌。打招呼时可以把目光停留一秒、声音抬高半档，这样更自信也更容易被听见。"
                 },
                 {
+                    "role": "Client",
+                    "text": "好的，我试试。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>迁移已掌握的放松与自我指令，形成任务前的应对链。</assessment><client_state>愿意将技能带入现实，需具体步骤感。</client_state><skill>38309:焦虑或暴露时自我指令启动放松; 1444:改变消极内部对话为积极自我指令</skill><strategy>策略：请她确认“呼吸+接纳+小步推进”的应对链。</strategy></think>在社交任务前若紧张上来，我们用“两轮呼吸—心里说‘我先试一步’—先完成一小步”的应对链，你觉得可行吗？"
+                    "text": "<think><assessment>来访者简短认可并愿意尝试非言语调整，显示接受度与行动意图提高。此时适合在进入现实任务前补充一条可操作的应对链，帮助她在紧张升起时稳住并推进小步。</assessment><client_state>配合度高、动机良好，准备把技巧迁移到现实，但在暴露前仍可能出现预期性紧张，需要清晰步骤感。</client_state><skill>38309:焦虑或暴露时自我指令启动放松; 1444:改变消极内部对话为积极自我指令</skill><strategy>在她接受非言语要点后，及时提出“呼吸—自我指令—小步推进”的链条，并通过征询可行度来增强承诺与合作制定。</strategy></think>好的，接着在社交任务前若紧张上来，我们用“两轮呼吸—心里说‘我先试一步’—先完成一小步”的应对链，你觉得可行吗？"
                 },
                 {
                     "role": "Client",

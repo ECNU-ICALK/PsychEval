@@ -3854,8 +3854,12 @@
                     "text": "<think><assessment>小结操作清单四环并正强化，巩固可迁移的步骤感。</assessment><client_state>对步骤已清晰，准备进入复发预防设计。</client_state><skill>70301:系统回顾并总结关键策略与成长</skill><strategy>策略：用陈述总结清单（信号→指令→动作→强化），不提问。</strategy></think>很好，你的个人操作清单已成形：早期信号（心跳快、肩紧/“会丢脸”）→自我指令（“点头就离开就好/紧张会降下来”）→动作（呼吸三轮、半到一秒目光、点头离开）→自我强化（鼓励+小奖励）。"
                 },
                 {
+                    "role": "Client",
+                    "text": "好的，清单很清楚。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>转入复发预防：先列出高风险情境清单。</assessment><client_state>已识别“她与朋友一起”“考试压力”“群聊打趣”等高风险线索。</client_state><skill>2094:制定并执行巩固训练计划</skill><strategy>策略：单点问题请其点名未来一个月最需要提前准备的2—3个情境。</strategy></think>展望接下来一个月，你最需要提前准备的高风险情境先列出2—3个？"
+                    "text": "<think><assessment>来访者简短确认清单清楚，显示对步骤有把握，适合进入复发预防。</assessment><client_state>准备度高、合作良好，愿意在清单明确后继续规划高风险情境。</client_state><skill>2094:制定并执行巩固训练计划</skill><strategy>在清单已明确的基础上，转入复发预防的第一步，请其先点名未来一个月最需要提前准备的2—3个高风险情境，为后续制定具体步骤做铺垫。</strategy></think>好的，清单明确了。展望接下来一个月，你最需要提前准备的高风险情境先列出2—3个？"
                 },
                 {
                     "role": "Client",

@@ -711,8 +711,12 @@
                     "text": "<think><assessment>她清楚描述了紧张的躯体感。继续承接并让她知道可以按照自己的节奏来。</assessment><client_state>轻度焦虑，可被言说，合作取向。</client_state><skill>200001:无条件积极关注与真诚共情在场; 255:建立对话式工作联盟与安全氛围</skill><strategy>正常化初次紧张，强调节奏由她掌握。</strategy></think>第一次来感到紧张很自然。我们可以按你的节奏来，慢慢地说。"
                 },
                 {
+                    "role": "Client",
+                    "text": "嗯，好，我慢慢说。"
+                },
+                {
                     "role": "Counselor",
-                    "text": "<think><assessment>进入基础信息前，先确认称呼，增进人际连结。</assessment><client_state>谨慎但开放。</client_state><skill>212407:开放式提问与澄清促进自我探索</skill><strategy>询问姓名与喜欢的称呼方式。</strategy></think>我想确认一下怎么称呼你比较合适，你愿意我叫你什么？"
+                    "text": "<think><assessment>她接受“按你的节奏慢慢来”的建议，简短回应表示愿意配合，焦虑可被容纳。</assessment><client_state>谨慎但开放，初始紧张略降，准备进入基础信息。</client_state><skill>212407:开放式提问与澄清促进自我探索</skill><strategy>在进入基础信息前先确认称呼，以增进连结与安全感，为后续评估铺垫。</strategy></think>好的，我们就按你的节奏慢慢来。我想确认一下怎么称呼你比较合适，你愿意我叫你什么？"
                 },
                 {
                     "role": "Client",
